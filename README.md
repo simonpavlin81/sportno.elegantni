@@ -1,3 +1,5 @@
+title: Dobrodošli na CarTrade
+description: Prodaja vozil
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/simonpavlin81/sportno.elegantni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
